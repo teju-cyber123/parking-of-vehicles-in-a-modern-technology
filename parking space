@@ -1,0 +1,72 @@
+Generally, we all are aware of parking of vehicles.
+So,in the modern technology everything is creating its own path according to lifestyle of a human.
+So,here let me click an idea about parking of vehicles in the modern days.
+Genarally,every where we can see the parking places like bustops,roadside parking,hosipitals,railwaystations,
+etc.
+But there will be certain way of parking places in highly complicated or highly developed areas such as universities,
+shopping malls,hosipitals,airports etc.
+The way of parking is quite different from normal areas to complicated areas,so for the parking of vehicles in 
+those areas there will be process such as system applications.
+when we entered in such areas there will be facility of login in our respective mobile. so when we logged in that
+it sends the information to the server such as ur vehicle number,car size those all information it will gather and it sends
+back to you about the parking place in the respective place so you need not to check manually you can directly go by the path shown by the server.
+If you mismatched the way also the server will send you the notification so it takes easy to you.
+so this is the trend which we are following now.
+But we need to think about the people who are not registered and finding parking place manually right.
+so i got few ideas  for that:
+so here i would run about it.
+In every complicated areas there will be sensors right, so here by using the sensors we can identify anything which are going
+in that particular area.
+So,here first thing their should not be any traffic collisions for the vehicles those who are registered and not registered.
+here there are few ways for this problem.
+we can keep seperate parking places for registered vehicles and non registered vehicles,so we need to keep directions with the symboitic 
+representation to find parking place it might be control some struggle for the people  to find out the parking place.
+This is a casuall way representation.
+For the following modern technology we need to keep effort to genarate new ideas such as:
+In the parking places there will be registered and non registered vehicles so here there will be sensors to findout the registerd vehicles
+such as Gate sensors,proximity sensors,etc.
+Gate sensors used to allow only the registered vehicles because it can identify the registerd vehicle number and non registered vehicles.
+Gate sensors:
+Radar Movement Sensors:
+
+These sensors can detect individuals in a specified area. 
+Because of this, radar movement sensors are suitable as opening activators for automatic gates. 
+The advantages of these sensors include the ability to penetrate foreign materials like plaster, plastic, wood, etc., detection of goods and people, adjustable sensitivity,
+and the ability to detect the direction of movement. One major disadvantage of these sensors is that they cannot detect stationary objects.
+
+Pressure Sensors:
+
+Pressure sensors are one of the first sensors that were used to open automatic gates.
+These sensors detect changes in the pressure/weight on a specific area of the ground (control mat) in front and back of the gates.
+When the trigger limit for weight is increased, the doors are opened. The biggest advantage of pressure sensors is that they keep the door open as long as the person
+stands/walks near the doors. Not only does this prevent the doors from ‘closing in’ on a person, but it also makes it easy for swift entry/exit.
+
+Optical Sensors or Motion Detectors:
+
+Most automatic gates nowadays use optical sensors or motion detectors, which are installed on the sides of the gate to trigger its opening and closing.
+As the name suggests, these sensors detect motion in front of the door. An antenna is installed on the gate header pointing in the outward and downward direction. 
+This antenna produces a microwave beam that detects motion. Optical sensors are highly effective however they have one major disadvantage; they are only designed to detect
+motion. So, if a person is standing still, the sensors might not open the gate.
+
+Passive Infrared Movement Sensors:
+
+Once they are installed, passive infrared movement sensors store the infrared image they detect in a given range for which they are set. 
+The sensor creates a distinct signal when the thermal image changes. These sensors are quite reliable when it comes to making an automatic gate open.
+They are compact in design, have precise detection ranges, and they can be set very accurately.
+
+Active Infrared Sensors:
+
+Active infrared sensors consist of at least two receiver chips and a transmitter.
+The receiver chips feature high-performance optics. The receiver can recognize whether the infrared light emitted from the transmitter is reflected by an object or
+individual inside/outside the scanning zone. These sensors are well suited for use as protection against cutting or crushing edges in swing doors, sliding doors,
+and revolving doors.
+ These are the gate sensors.
+ Proximity sensor:
+ this is used to check whether the vehicle is going in proper path or any obstacles are occured to notify it.
+ So by using this sensors we can maintain proper parking of vehicles, here gate sensors can identify the registered vehicle number to allow for the parking in a particular place and 
+ remaining vehicles can go to another place which is allocated parking place for the non registered vehicles.
+ 
+ This is of about a parking space for a vehicle.
+
+
+
